@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyc
+*.pyd
+*.pyo
+data/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.keras
+*.h5
+*.pt
+*.bin
